@@ -3,9 +3,9 @@ entries:
   vault:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2019-04-03T19:43:40.172604-07:00
+    created: 2019-05-15T18:51:16.233596-07:00
     description: A Helm chart for Vault, a tool for managing secrets
-    digest: b94b85913df4dbba8d0a1d9fc2d7d3de29a199731f10a5da88f62a6cffc4fd11
+    digest: 7330d81a04543b5f664d15d82353aa0ec70734d9c44ec27f7d29919452e689eb
     home: https://www.vaultproject.io/
     icon: https://www.vaultproject.io/assets/images/mega-nav/logo-vault-0f83e3d2.svg
     maintainers:
@@ -18,4 +18,4 @@ entries:
     urls:
     - vault-0.16.1.tgz
     version: 0.16.1
-generated: 2019-04-03T19:43:40.170841-07:00
+generated: 2019-05-15T18:51:16.231786-07:00
